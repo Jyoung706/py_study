@@ -133,5 +133,5 @@ print()
 # 외부 모듈
 import math
 
-print(math.ceil(5.1)) # x 이상의 수 중에서 가장 작은 정수
+print(math.ceil(5.1)) # math.ceil 은 소숫점 이하 반올림
 print(math.pi)
