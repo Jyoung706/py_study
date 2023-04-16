@@ -153,5 +153,5 @@ print()
 # 아스키 코드
 
 a = 'z'
-print(ord(a))
-print(chr(122))
+print(ord(a)) # 문자를 아스키 코드로
+print(chr(122)) # 아스키 코드를 문자로
